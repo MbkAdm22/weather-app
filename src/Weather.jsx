@@ -77,7 +77,7 @@ const Weather = () => {
   return (
     <div className="app-wrapper">
       <div className="weather-container">
-        <h1 className="app-title">🌦 Weather App</h1>
+        <h1 className="app-title">🌦 Weather App Developed by Mubarak Adam</h1>
 
         {/* Search Box */}
         <form className="search-box" onSubmit={handleSearch}>
@@ -158,3 +158,4 @@ const Weather = () => {
 };
 
 export default Weather;
+
